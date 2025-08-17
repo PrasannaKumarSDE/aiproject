@@ -1,0 +1,8 @@
+com\example\transcript_summarizer\dto\EmailRequest.class
+com\example\transcript_summarizer\dto\SummarizeRequest.class
+com\example\transcript_summarizer\Sevices\FileService.class
+com\example\transcript_summarizer\dto\UploadResponse.class
+com\example\transcript_summarizer\Sevices\EmailService.class
+com\example\transcript_summarizer\Sevices\AIService.class
+com\example\transcript_summarizer\TranscriptSummarizerApplication.class
+com\example\transcript_summarizer\Controller\TranscriptController.class
